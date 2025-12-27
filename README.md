@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Parrybrar<br>👀 I’m interested in web development and AI<br>🌱 I’m currently learning Python advance<br>💞️ I’m looking to collaborate on AI development<br>📫 How to reach me by my mail brarparminder379@gmail.com
+👋 Hi, I’m @Parrybrar<br>👀 I’m interested in web development and AI<br>🌱 I’m currently learning Python advance<br>💞️ I’m looking to collaborate on AI development<br>📫 How to reach me by my mail brarparminder379@gmail.com & https://parrybrar.netlify.app/
 
 
 ## 🌐 Socials:
